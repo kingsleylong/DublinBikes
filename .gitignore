@@ -10,3 +10,4 @@
 # Python pre-compiled files
 **/__pycache__/
 **/*.pkl
+dublinbikes/common/config.txt
