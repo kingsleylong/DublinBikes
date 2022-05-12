@@ -15,7 +15,8 @@ function initMap() {
     console.log("setting infowindows....");
     infowindow = new google.maps.InfoWindow();
     console.log("setting hostname....");
-    hostname = "54.158.231.1";
+    // change this hostname to your remote server before deployment
+    hostname = "localhost";
 
     //show station markers on the map
     function showStationMarkers() {

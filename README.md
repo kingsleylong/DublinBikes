@@ -55,4 +55,13 @@ The user flow is very straightforward. The user enters the URL in the browser to
 
 Figure 4: User flow
 
-*To Run Locally*
+## Developer's Guide
+If you are interested in running the application, please follow the 
+instructions at [Run the project locally](documentation/developer-guide.md).
+
+## Contributors
+[Sean-Jay-M](https://github.com/Sean-Jay-M)  
+[KingsleyLong](https://github.com/kingsleylong)    
+[ClarenceWhite](https://github.com/ClarenceWhite)
+
+---

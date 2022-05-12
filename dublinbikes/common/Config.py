@@ -7,7 +7,7 @@ class Config:
         print('sys.path', sys.path)
         print('current path of Config', config_file_path)
         for path in sys.path:
-            if path.endswith('/BluePen'):
+            if path.endswith('/DublinBikes'):
                 self._config_file_path = path + config_file_path
                 print('Final path for config:', self._config_file_path)
 
