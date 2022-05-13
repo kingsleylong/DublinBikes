@@ -145,5 +145,3 @@ learning model for prediction.
 Good luck!
 
 ---
-
-Any questions or suggestions please raise in the issues section on the top.
